@@ -1,0 +1,19 @@
+{
+  "name": "hexo-post-img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurangit/hexo-img-post.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurangit/hexo-img-post/issues"
+  },
+  "homepage": "https://github.com/hurangit/hexo-img-post#readme"
+}

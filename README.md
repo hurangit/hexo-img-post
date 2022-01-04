@@ -1,1 +1,1 @@
-# hexo-img-post
+# hexo-img
